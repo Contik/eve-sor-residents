@@ -1,2 +1,1 @@
-eve-syndicate-residents
-=======================
+A map of corporations, alliances and other inhabitants of the Syndicate region. Sort of accurate, updated whenever I feel like it. Something amiss? Send an Evemail to me, Contik Ardman. Don't know what this Evemail mumbo-jumbo is about? Drop me a plain old e-mail at contikify [at] gmail [dot] com.
